@@ -1,5 +1,5 @@
 # palette-generator
-
+--
 Built with Preact
 
 ## CLI Commands
